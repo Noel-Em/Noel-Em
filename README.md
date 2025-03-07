@@ -1,5 +1,4 @@
 # About Me
----
 <p>Hello, I'm Leonardo Ulino.<br>
 I'm 20 years old and have an irrepressible curiosity and desire to create and discover everything that exists and does not exist.</p>
 
